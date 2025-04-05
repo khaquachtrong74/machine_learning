@@ -10,3 +10,5 @@
 4. Optimizing a cost function
 5. Handling, cleaning, and preparing data
 
+
+[[NOTE]]
