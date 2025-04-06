@@ -2,6 +2,7 @@
 # VIRTUAL ENVIROMENTS
 .env
 .venv
+./code/venv/
 venv/
 ENV/
 env/
