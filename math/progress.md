@@ -1,6 +1,5 @@
 [DATE 04-06-2025] *FORMAT MM-dd-YYYY*
 
-```json
 Mathematical foundations:{
     System of linear equations:
     {
@@ -23,5 +22,4 @@ Mathematical foundations:{
         'inverse matrix':(image)[[./images/inverse.png]]
     },
 }
-```
 
